@@ -32,3 +32,7 @@ In this project, Proteus was used to build our Electronic voting machine, specif
 + Proteus
 
 ## Proteus circuit diagram of proposed _Electronic Voting Machine_:
+
+![Final report](https://user-images.githubusercontent.com/105945382/211148782-da6a1b5b-daf2-4597-a96a-0c38acfacb91.jpg)
+
+The results and the conclusions are discussed in the final report [Final Report](https://pages.github.com/)
